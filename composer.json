@@ -20,6 +20,6 @@
     },
     "require": {
         "setasign/fpdf": "1.7.*",
-        "setasign/fpdi": "1.5.*"
+        "setasign/fpdi": ">=1.5.4"
     }
 }
