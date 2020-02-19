@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "setasign/fpdf": "^1.8",
-        "setasign/fpdi": "^2.2"
+        "setasign/fpdf": "^1.8.2",
+        "setasign/fpdi": "^2.3"
     }
 }
